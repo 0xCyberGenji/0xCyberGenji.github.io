@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Blogs on 0xCyberGenji&#39;s Github Page</title>
+    <link>https://0xcybergenji.gihub.io/blogs/</link>
+    <description>Recent content in Blogs on 0xCyberGenji&#39;s Github Page</description>
+    <generator>Hugo</generator>
+    <language>en-us</language>
+    <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
+    <atom:link href="https://0xcybergenji.gihub.io/blogs/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>API hashing</title>
+      <link>https://0xcybergenji.gihub.io/blogs/api-hashing/</link>
+      <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
+      <guid>https://0xcybergenji.gihub.io/blogs/api-hashing/</guid>
+      <description>Merhabalar. Bu yazıda, maldev alanındaki API Hashing yöntemini ele alacağım.&#xA;API Hashing, İçe aktarılmış (Imported) Windows API&amp;rsquo;ların taşınabilir ve yürütülebilir dosyalarda bulunmasını zorlaştırmak için kullanılan bir yöntemdir. Bu yöntem, Windows API&amp;rsquo;larının adlarını ve adreslerini gizlemek için kullanılır. Bu yazıda ise temelden buna odaklanılacaktır.&#xA;PE (Portable Executable) Yapısı Nedir? Her şeyden önce PE (Portable Executable) yapısını anlamanın gerekli olduğunu düşünüyorum çünkü bu tekniğimiz PE içerisindeki bir tablo üzerine.&#xA;PE, Windows işletim sistemlerinde 32 ve 64 bit sürümlerde ve UEFI ortamlarda kullanılan executable dosyalar, object kodlar, DLL&amp;rsquo;ler ve diğerleri için bir dosya biçimidir.</description>
+    </item>
+    <item>
+      <title>Is Valorant Spyware?</title>
+      <link>https://0xcybergenji.gihub.io/blogs/is-valorant-spyware/</link>
+      <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
+      <guid>https://0xcybergenji.gihub.io/blogs/is-valorant-spyware/</guid>
+      <description>Giriş Valorant oyunu, çıkışından beri hem oyuncuların ilgisini çeken hem de tartışmalara neden olan bir yapım olmuştur. Özellikle oyunun anti-cheat sistemi olan Vanguard&amp;rsquo;ın, oyuncuların gizlilik haklarını ihlal ettiği ve spyware olarak adlandırılabilecek bir yazılım olduğu iddialarıyla sıkça gündeme gelmiştir. Bu iddialar, oyuncuların güvenlik endişelerini artırmış ve Valorant&amp;rsquo;ın popülaritesiyle birlikte bu konuda birçok tartışma başlatılmıştır.&#xA;Reddit ve diğer sosyal medya platformlarında yayılan bu iddialar, Valorant&amp;rsquo;ın geliştiricisi olan Riot Games&amp;rsquo;in, oyuncuların bilgisayarlarında istenmeyen izleme ve kontrol yeteneklerine sahip olduğu yönünde eleştirilmesine neden olmuştur.</description>
+    </item>
+    <item>
+      <title>Bypass Ptrace</title>
+      <link>https://0xcybergenji.gihub.io/blogs/bypass-ptrace/</link>
+      <pubDate>Sun, 31 Dec 2023 00:00:00 +0000</pubDate>
+      <guid>https://0xcybergenji.gihub.io/blogs/bypass-ptrace/</guid>
+      <description>Merhabalar. Bu konumda ptrace&amp;rsquo;in nasıl bypass edilebileceğiniden bahsedeceğim.&#xA;ptrace, bir process&amp;rsquo;in diğer bir process&amp;rsquo;i debug etmesini sağlayan bir sistem çağrısıdır. Bu sistem çağrısı sayesinde bir process&amp;rsquo;in diğer process&amp;rsquo;inin memory&amp;rsquo;sine erişebiliriz. Bu sayede process&amp;rsquo;in memory&amp;rsquo;sindeki verileri okuyabilir, yazabilir ve değiştirebiliriz.&#xA;ptrace, genellikle bir işlemin yürütme zamanında izlenmesi ve kontrol edilmesi amacıyla kullanılır. Bu, hata ayıklama (debugging), sistem çağrılarını izleme, işlemi duraklatma, kaynak izleme ve benzeri geliştirme ve analiz amaçları için yaygın olarak kullanılan bir sistem aracıdır.</description>
+    </item>
+  </channel>
+</rss>
