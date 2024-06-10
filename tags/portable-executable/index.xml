@@ -2,18 +2,18 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Portable Executable on 0xCyberGenji&#39;s Github Page</title>
-    <link>https://0xcybergenji.gihub.io/tags/portable-executable/</link>
+    <link>http://localhost:1313/tags/portable-executable/</link>
     <description>Recent content in Portable Executable on 0xCyberGenji&#39;s Github Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://0xcybergenji.gihub.io/tags/portable-executable/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/portable-executable/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API hashing</title>
-      <link>https://0xcybergenji.gihub.io/blogs/api-hashing/</link>
+      <link>http://localhost:1313/blogs/api-hashing/</link>
       <pubDate>Sun, 09 Jun 2024 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/blogs/api-hashing/</guid>
-      <description>Merhabalar. Bu yazıda, maldev alanındaki API Hashing yöntemini ele alacağım.&#xA;API Hashing, İçe aktarılmış (Imported) Windows API&amp;rsquo;ların taşınabilir ve yürütülebilir dosyalarda bulunmasını zorlaştırmak için kullanılan bir yöntemdir. Bu yöntem, Windows API&amp;rsquo;larının adlarını ve adreslerini gizlemek için kullanılır. Bu yazıda ise temelden buna odaklanılacaktır.&#xA;PE (Portable Executable) Yapısı Nedir? Her şeyden önce PE (Portable Executable) yapısını anlamanın gerekli olduğunu düşünüyorum çünkü bu tekniğimiz PE içerisindeki bir tablo üzerine.&#xA;PE, Windows işletim sistemlerinde 32 ve 64 bit sürümlerde ve UEFI ortamlarda kullanılan executable dosyalar, object kodlar, DLL&amp;rsquo;ler ve diğerleri için bir dosya biçimidir.</description>
+      <guid>http://localhost:1313/blogs/api-hashing/</guid>
+      <description>Merhabalar. Bu yazıda, maldev alanındaki API Hashing yöntemini ele alacağım.&#xA;PE (Portable Executable) Yapısı Nedir? Her şeyden önce PE (Portable Executable) yapısını anlamanın gerekli olduğunu düşünüyorum çünkü bu tekniğimiz tamamen bu yapı üzerine.&#xA;PE, Windows işletim sistemlerinde 32 ve 64 bit sürümlerde ve UEFI ortamlarda kullanılan executable dosyalar, object kodlar, DLL&amp;rsquo;ler ve diğerleri için bir dosya biçimidir. PE, Windows İşletim sistemi loader&amp;rsquo;in yürütülmek istenilen kodu yönetmesi için gereken veri yapıları içermektedir.</description>
     </item>
   </channel>
 </rss>

@@ -2,17 +2,17 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Vanguard on 0xCyberGenji&#39;s Github Page</title>
-    <link>https://0xcybergenji.gihub.io/tags/vanguard/</link>
+    <link>http://localhost:1313/tags/vanguard/</link>
     <description>Recent content in Vanguard on 0xCyberGenji&#39;s Github Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Wed, 17 Apr 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://0xcybergenji.gihub.io/tags/vanguard/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/vanguard/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Is Valorant Spyware?</title>
-      <link>https://0xcybergenji.gihub.io/blogs/is-valorant-spyware/</link>
+      <link>http://localhost:1313/blogs/is-valorant-spyware/</link>
       <pubDate>Wed, 17 Apr 2024 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/blogs/is-valorant-spyware/</guid>
+      <guid>http://localhost:1313/blogs/is-valorant-spyware/</guid>
       <description>Giriş Valorant oyunu, çıkışından beri hem oyuncuların ilgisini çeken hem de tartışmalara neden olan bir yapım olmuştur. Özellikle oyunun anti-cheat sistemi olan Vanguard&amp;rsquo;ın, oyuncuların gizlilik haklarını ihlal ettiği ve spyware olarak adlandırılabilecek bir yazılım olduğu iddialarıyla sıkça gündeme gelmiştir. Bu iddialar, oyuncuların güvenlik endişelerini artırmış ve Valorant&amp;rsquo;ın popülaritesiyle birlikte bu konuda birçok tartışma başlatılmıştır.&#xA;Reddit ve diğer sosyal medya platformlarında yayılan bu iddialar, Valorant&amp;rsquo;ın geliştiricisi olan Riot Games&amp;rsquo;in, oyuncuların bilgisayarlarında istenmeyen izleme ve kontrol yeteneklerine sahip olduğu yönünde eleştirilmesine neden olmuştur.</description>
     </item>
   </channel>

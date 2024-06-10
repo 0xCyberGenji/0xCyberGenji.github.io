@@ -2,80 +2,80 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Tags on 0xCyberGenji&#39;s Github Page</title>
-    <link>https://0xcybergenji.gihub.io/tags/</link>
+    <link>http://localhost:1313/tags/</link>
     <description>Recent content in Tags on 0xCyberGenji&#39;s Github Page</description>
     <generator>Hugo</generator>
     <language>en-us</language>
     <lastBuildDate>Sun, 09 Jun 2024 00:00:00 +0000</lastBuildDate>
-    <atom:link href="https://0xcybergenji.gihub.io/tags/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="http://localhost:1313/tags/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>API Hashing</title>
-      <link>https://0xcybergenji.gihub.io/tags/api-hashing/</link>
+      <link>http://localhost:1313/tags/api-hashing/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/api-hashing/</guid>
+      <guid>http://localhost:1313/tags/api-hashing/</guid>
       <description></description>
     </item>
     <item>
       <title>Portable Executable</title>
-      <link>https://0xcybergenji.gihub.io/tags/portable-executable/</link>
+      <link>http://localhost:1313/tags/portable-executable/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/portable-executable/</guid>
+      <guid>http://localhost:1313/tags/portable-executable/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows API</title>
-      <link>https://0xcybergenji.gihub.io/tags/windows-api/</link>
+      <link>http://localhost:1313/tags/windows-api/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/windows-api/</guid>
+      <guid>http://localhost:1313/tags/windows-api/</guid>
       <description></description>
     </item>
     <item>
       <title>Anti-Cheat</title>
-      <link>https://0xcybergenji.gihub.io/tags/anti-cheat/</link>
+      <link>http://localhost:1313/tags/anti-cheat/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/anti-cheat/</guid>
+      <guid>http://localhost:1313/tags/anti-cheat/</guid>
       <description></description>
     </item>
     <item>
       <title>Spyware</title>
-      <link>https://0xcybergenji.gihub.io/tags/spyware/</link>
+      <link>http://localhost:1313/tags/spyware/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/spyware/</guid>
+      <guid>http://localhost:1313/tags/spyware/</guid>
       <description></description>
     </item>
     <item>
       <title>Valorant</title>
-      <link>https://0xcybergenji.gihub.io/tags/valorant/</link>
+      <link>http://localhost:1313/tags/valorant/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/valorant/</guid>
+      <guid>http://localhost:1313/tags/valorant/</guid>
       <description></description>
     </item>
     <item>
       <title>Vanguard</title>
-      <link>https://0xcybergenji.gihub.io/tags/vanguard/</link>
+      <link>http://localhost:1313/tags/vanguard/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/vanguard/</guid>
+      <guid>http://localhost:1313/tags/vanguard/</guid>
       <description></description>
     </item>
     <item>
       <title>Bypass</title>
-      <link>https://0xcybergenji.gihub.io/tags/bypass/</link>
+      <link>http://localhost:1313/tags/bypass/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/bypass/</guid>
+      <guid>http://localhost:1313/tags/bypass/</guid>
       <description></description>
     </item>
     <item>
       <title>Ptrace</title>
-      <link>https://0xcybergenji.gihub.io/tags/ptrace/</link>
+      <link>http://localhost:1313/tags/ptrace/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/ptrace/</guid>
+      <guid>http://localhost:1313/tags/ptrace/</guid>
       <description></description>
     </item>
     <item>
       <title>Reverse Engineering</title>
-      <link>https://0xcybergenji.gihub.io/tags/reverse-engineering/</link>
+      <link>http://localhost:1313/tags/reverse-engineering/</link>
       <pubDate>Mon, 01 Jan 0001 00:00:00 +0000</pubDate>
-      <guid>https://0xcybergenji.gihub.io/tags/reverse-engineering/</guid>
+      <guid>http://localhost:1313/tags/reverse-engineering/</guid>
       <description></description>
     </item>
   </channel>
