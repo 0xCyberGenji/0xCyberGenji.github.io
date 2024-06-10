@@ -1,3 +1,4 @@
 [submodule "public"]
-  path = public
-  url = https://github.com/0xCyberGenji/0xCyberGenji.github.io
+	path = public
+	url = https://github.com/0xCyberGenji/0xCyberGenji.github.io
+	branch = main
